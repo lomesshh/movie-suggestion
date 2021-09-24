@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: url(https://i.postimg.cc/5thSg1h7/bg.jpg);
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: #4c2882;
+  margin: 2rem;
+}
+h2 {
+  color: #cad48c;
+  font-size: 35px;
+}
+h3 {
+  color: #4c2882;
+  font-size: 18px;
+}
+h4 {
+  color: #9f00ff;
+}
+input {
+  background-color: #fffcdb;
+  padding: 6px;
+  border-radius: 10px;
+  width: 70%;
+  font-size: 20px;
+  margin: 2rem;
+}
+button {
+  font-size: 20px;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: #9f00ff;
+  color: #c7b1d1;
+  margin: 2rem;
+}
